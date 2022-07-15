@@ -1,0 +1,13 @@
+.pushy-button, .attention-seeker {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.pushy-button {
+    background-color: black;
+    color: white;
+}
+
+.attention-seeker {
+    background-color: yellow;
+}
